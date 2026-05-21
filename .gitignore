@@ -1,0 +1,4 @@
+.venv/
+
+# Files too large 
+data/
